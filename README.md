@@ -17,7 +17,7 @@
 # Installation Instructions  
 
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate Macs Fan Control On Your Device.  
+2. Follow The On-Screen Steps To Install And Activate Postico On Your Device.  
 
 ---
 
